@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.click-bg-con {
+  background-color: #f1f5f8;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #2d3a35;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.description {
+  color: #c20a72;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.button {
+  background-color: #007bff;
+  font-size: 12px;
+  color: #ffffff;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+}
